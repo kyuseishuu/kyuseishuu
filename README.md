@@ -4,7 +4,7 @@
 
 <div align="center">  
    <a href=""><img width="49%" height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kyuseishuu&show_icons=true&count_private=true&hide_border=true&&title_color=DC4A50&icon_color=D41D25&text_color=f8f8f2&bg_color=0A0C10" alt="Guilherme Salvador github stats" /> </a>
-  <a href=""> <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyuseishuu&layout=compact&hide_border=true&&title_color=DC4A50&bg_color=0A0C10" /></a>
+  <a href=""> <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyuseishuu&layout=compact&hide_border=true&&title_color=DC4A50&bg_color=0A0C10&text_color=f8f8f2" /></a>
   
 </div>
 <br><br>
